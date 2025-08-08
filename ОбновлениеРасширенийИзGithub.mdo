@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7551fd2c-4240-41a8-b7a9-0779970ad1cd">
+  <producedTypes>
+    <objectType typeId="94d47187-1777-46e2-859b-555edcb68a32" valueTypeId="26af4d9d-5a5e-4d74-8e50-dcaf46ff93f3"/>
+  </producedTypes>
+  <name>ОбновлениеРасширенийИзGithub</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обновление расширений из github</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="f6e13e65-402d-4ca7-9c6c-659d007c254d"/>
+  <defaultForm>ExternalDataProcessor.ОбновлениеРасширенийИзGithub.Form.Форма</defaultForm>
+  <forms uuid="b3dfbbb3-cf04-4672-b8fb-d08e21cffb9e">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="dc2b5ec9-4533-48cd-9fd3-9d4ecfb38971">
+    <name>ФормаУстановки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма установки</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
